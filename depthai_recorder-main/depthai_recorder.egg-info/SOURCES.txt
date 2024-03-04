@@ -1,0 +1,9 @@
+README.md
+setup.py
+depthai_recorder/__init__.py
+depthai_recorder/recorder.py
+depthai_recorder.egg-info/PKG-INFO
+depthai_recorder.egg-info/SOURCES.txt
+depthai_recorder.egg-info/dependency_links.txt
+depthai_recorder.egg-info/requires.txt
+depthai_recorder.egg-info/top_level.txt
